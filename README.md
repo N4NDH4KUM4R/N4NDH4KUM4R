@@ -17,7 +17,7 @@ I'm a MERN stack web developer who is passionate about learning and building web
 [<img align="left" alt="Nandha Kumar | Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][gmail]
 [<img align="left" alt="Nandha Kumar | Gmail" width="22px" src="https://cdn.jim-nielsen.com/macos/512/twitter-2015-12-30.png" />][Twitter]
 
-[<img align="left" alt="nandhakumar_life | Instagram" width="22px" src="" />][instagram]
+[<img align="left" alt="nandhakumar_life | Instagram" width="22px" src="https://static.cdnlogo.com/logos/i/32/instagram-icon.svg" />][instagram]
 
 <br />
 
