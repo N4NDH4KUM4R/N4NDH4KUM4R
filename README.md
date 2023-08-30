@@ -1,22 +1,24 @@
 ### Hi there, I'm Nandha Kumar 👋
 
-I'm a passionate MERN stack web developer who loves to learn and build web applications.
+I'm a MERN stack web developer who is passionate about learning and building web applications.
 
-- 🔭 I’m currently working on MERN stack development.
-- 🌱 I’m always learning new things. 🤣
-- 🥅 My goal for 2023 is to contribute more to open-source projects.
-- ⚡ Fun fact: I love playing video games.
+- 🔭 I’m currently working on MERN stack Development
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play video games
 
-### My Open Source Contributions:
 
-- npm: I have contributed several packages to the npm open-source platform. Check out my npm profile to see my work.
-- CodePen: I have contributed several projects to the CodePen open-source platform. Check out my CodePen profile to see my work.
+### Open Source Contributions:
+
+- [npm](https://www.npmjs.com/): I have contributed several packages to the npm open-source platform. Check out my [npm profile](https://www.npmjs.com/~n4ndhu) to see my work.
+- [CodePen](https://codepen.io/): I have contributed several projects to the CodePen open-source platform. Check out my [CodePen profile](https://codepen.io/N4NDH4KUM4R) to see my work.
 
 ### Connect with me:
-[<img align="left" alt="Nandha Kumar | Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />]
-[<img align="left" alt="Nandha Kumar | Gmail" width="22px" src="https://cdn.jim-nielsen.com/macos/512/twitter-2015-12-30.png" />]
+[<img align="left" alt="Nandha Kumar | Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][Gmail]
 
-[<img align="left" alt="nandhakumar_life | Instagram" width="22px" src="https://static.cdnlogo.com/logos/i/32/instagram-icon.svg" />]
+[<img align="left" alt="nandhakumar_life | Instagram" width="22px" src="https://cdn.jim-nielsen.com/macos/512/twitter-2015-12-30.png" />][Twitter]
+
+[<img align="left" alt="nandhakumar_life | Instagram" width="22px" src="https://static.cdnlogo.com/logos/i/32/instagram-icon.svg" />][Instagram]
 
 <br />
 
@@ -28,13 +30,15 @@ I'm a passionate MERN stack web developer who loves to learn and build web appli
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919828.png" />
 <img align="left" alt="React" width="26px" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" />
-<img align="left" alt="Node.js" width="26px" src="<EUGPSCoordinates>devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg<EUGPSCoordinates>" />
-<img align "left " alt "MongoDB " width "26px " src "<EUGPSCoordinates>devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg<EUGPSCoordinates> " />
-<img align "left " alt "npm " width "26px " src "<EUGPSCoordinates>devicons/devicon/icons/npm/npm-original-wordmark.svg<EUGPSCoordinates> " />
-<img align "left " alt "Figma " width "26px " src "<EUGPSCoordinates>devicons/devicon/icons/figma/figma-original.svg<EUGPSCoordinates> " />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="npm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
 
 <br />
 <br />
 
 [gmail]: mailto:nandhakumarchinnasami@gmail.com
+[Twitter]: https://twitter.com/webdev_Nandha?t=lw5V-XuqilHZL_M-qQfJOg&s=09
 [instagram]: https://instagram.com/nandhakumar_life
