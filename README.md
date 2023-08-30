@@ -14,10 +14,10 @@ I'm a MERN stack web developer who is passionate about learning and building web
 - [CodePen](https://codepen.io/): I have contributed several projects to the CodePen open-source platform. Check out my [CodePen profile](https://codepen.io/N4NDH4KUM4R) to see my work.
 
 ### Connect with me:
-[<img align="left" alt="Nandha Kumar | Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][gmail]
-[<img align="left" alt="Nandha Kumar | Gmail" width="22px" src="https://cdn.jim-nielsen.com/macos/512/twitter-2015-12-30.png" />][Twitter]
+[<img align="left" alt="Nandha Kumar | Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />]
+[<img align="left" alt="Nandha Kumar | Gmail" width="22px" src="https://cdn.jim-nielsen.com/macos/512/twitter-2015-12-30.png" />]
 
-[<img align="left" alt="nandhakumar_life | Instagram" width="22px" src="https://static.cdnlogo.com/logos/i/32/instagram-icon.svg" />][instagram]
+[<img align="left" alt="nandhakumar_life | Instagram" width="22px" src="https://static.cdnlogo.com/logos/i/32/instagram-icon.svg" />]
 
 <br />
 
