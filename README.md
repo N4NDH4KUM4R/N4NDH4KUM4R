@@ -4,7 +4,7 @@ I'm a MERN stack web developer who is passionate about learning and building web
 
 - 🔭 I’m currently working on MERN stack Development
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games
 
 
